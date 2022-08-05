@@ -1,5 +1,5 @@
 # -----USAGE EXAMPLE-----
-
+```
 import 'class.dart';
 import 'stores.dart';
 
@@ -46,3 +46,4 @@ class _TestWidgetState extends State<TestWidget> {
     );
   }
 }
+```
